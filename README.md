@@ -18,7 +18,7 @@ CC Mate is a GUI for Claude Code.
 ## Platform support
 
 - [x] macOS
-- [ ] Windows (comming soon)
+- [x] Windows (comming soon)
 
 [⬇️ Download](https://github.com/djyde/ccmate-release/releases)
 
