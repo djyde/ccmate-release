@@ -10,15 +10,19 @@ CC Mate is a GUI for Claude Code.
 
 <img width="1912" height="1424" alt="0xOqdbIE@2x" src="https://github.com/user-attachments/assets/3c380c01-8f59-4bab-b938-fe5fab78160d" />
 
+![Uploading VFiucnmI@2x.png…]()
+
+
 ## Features
 
 - Create multiple Claude Code config file and switch in one click
 - Add/Remove global MCP server for Claude Code
+- Check token usage
 
 ## Platform support
 
 - [x] macOS
-- [x] Windows (comming soon)
+- [x] Windows
 
 [⬇️ Download](https://github.com/djyde/ccmate-release/releases)
 
