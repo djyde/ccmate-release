@@ -10,8 +10,7 @@ CC Mate is a GUI for Claude Code.
 
 <img width="1912" height="1424" alt="0xOqdbIE@2x" src="https://github.com/user-attachments/assets/3c380c01-8f59-4bab-b938-fe5fab78160d" />
 
-![Uploading VFiucnmI@2x.png…]()
-
+<img width="2364" height="1804" alt="VFiucnmI@2x" src="https://github.com/user-attachments/assets/ecb4c497-73e2-4545-b5d8-271d97c8237b" />
 
 ## Features
 
